@@ -1,0 +1,402 @@
+[
+  {
+    "_id": "CSUeAQAAIAAJ",
+    "authors": ["William Howard Green"],
+    "average_rating": 0,
+    "categories": ["Literary Criticism"],
+    "published_date": "1995",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=CSUeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "KY0BDObXftUC",
+    "authors": ["Corey Olsen"],
+    "average_rating": 4,
+    "categories": ["Literary Criticism"],
+    "published_date": "2012",
+    "ratings_count": 8,
+    "thumbnail": "http://books.google.com/books/content?id=KY0BDObXftUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "Exploring J.R.R. Tolkien's The Hobbit"
+  },
+  {
+    "_id": "H8ON-dTgQQYC",
+    "authors": ["Jude Fisher"],
+    "average_rating": 4.5,
+    "categories": ["Art"],
+    "published_date": "2012",
+    "ratings_count": 8,
+    "thumbnail": "http://books.google.com/books/content?id=H8ON-dTgQQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "hFfhrCWiLSMC",
+    "authors": ["John Ronald Reuel Tolkien"],
+    "average_rating": 4,
+    "categories": ["FICTION"],
+    "published_date": "1982",
+    "ratings_count": 2649,
+    "thumbnail": "http://books.google.com/books/content?id=hFfhrCWiLSMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "The Hobbit, Or, There and Back Again"
+  },
+  {
+    "_id": "Wy0svf_7NzsC",
+    "authors": ["Paddy Kempshall"],
+    "average_rating": 0,
+    "categories": ["Juvenile Fiction"],
+    "published_date": "2012",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=Wy0svf_7NzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "8ef3-s6fixIC",
+    "authors": ["Perry C. Bramlett"],
+    "average_rating": 5,
+    "categories": ["Biography & Autobiography"],
+    "published_date": "2003",
+    "ratings_count": 2,
+    "thumbnail": "http://books.google.com/books/content?id=8ef3-s6fixIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "I Am in Fact a Hobbit"
+  },
+  {
+    "_id": "ouD2ugAACAAJ",
+    "authors": ["J.R.R. Tolkien"],
+    "average_rating": 4.5,
+    "categories": ["Fiction"],
+    "published_date": "2012",
+    "ratings_count": 5,
+    "thumbnail": "http://books.google.com/books/content?id=ouD2ugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "N_0VhzQKIIAC",
+    "authors": ["Jim Ware"],
+    "average_rating": 4.5,
+    "categories": ["Religion"],
+    "published_date": "2006",
+    "ratings_count": 13,
+    "thumbnail": "http://books.google.com/books/content?id=N_0VhzQKIIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "Finding God in the Hobbit"
+  },
+  {
+    "_id": "e5srNGZN70wC",
+    "authors": ["Brian Sibley"],
+    "average_rating": 0,
+    "categories": ["Fiction"],
+    "published_date": "2012-11-06",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=e5srNGZN70wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit: An Unexpected Journey Official Movie Guide"
+  },
+  {
+    "_id": "KUSn4G6eiCUC",
+    "authors": ["Ed Strauss"],
+    "average_rating": 4,
+    "categories": ["Religion"],
+    "published_date": "2012-09-01",
+    "ratings_count": 7,
+    "thumbnail": "http://books.google.com/books/content?id=KUSn4G6eiCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "A Hobbit Devotional"
+  },
+  {
+    "_id": "OlCHcjX0RT4C",
+    "authors": ["J.R.R. Tolkien"],
+    "average_rating": 4.5,
+    "categories": ["Young Adult Fiction"],
+    "published_date": "2012-11-08",
+    "ratings_count": 10,
+    "thumbnail": "http://books.google.com/books/content?id=OlCHcjX0RT4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "RdiRAQAAQBAJ",
+    "authors": ["Jonathan Handel "],
+    "average_rating": 0,
+    "categories": ["Performing Arts"],
+    "published_date": "2012-11-22",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=RdiRAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The New Zealand Hobbit Crisis"
+  },
+  {
+    "_id": "ariQBAAAQBAJ",
+    "authors": ["Bradford Lee Eden"],
+    "average_rating": 0,
+    "categories": ["Literary Criticism"],
+    "published_date": "2014-10-13",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=ariQBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit and TolkienÕs Mythology"
+  },
+  {
+    "_id": "Q5m_CAAAQBAJ",
+    "authors": ["David Day"],
+    "average_rating": 4,
+    "categories": ["Literary Criticism"],
+    "published_date": "2012-10-26",
+    "ratings_count": 2,
+    "thumbnail": "http://books.google.com/books/content?id=Q5m_CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit Companion"
+  },
+  {
+    "_id": "8_YUAgAAQBAJ",
+    "authors": ["Jude Fisher"],
+    "average_rating": 5,
+    "categories": ["Art"],
+    "published_date": "2013",
+    "ratings_count": 2,
+    "thumbnail": "http://books.google.com/books/content?id=8_YUAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit, the Desolation of Smaug"
+  },
+  {
+    "_id": "X_YUAgAAQBAJ",
+    "authors": ["Brian Sibley"],
+    "average_rating": 0,
+    "categories": ["Performing Arts"],
+    "published_date": "2013",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=X_YUAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit, the Desolation of Smaug"
+  },
+  {
+    "_id": "glFsAwAAQBAJ",
+    "authors": ["G Whiz"],
+    "average_rating": 0,
+    "categories": [],
+    "published_date": "2014-04-25",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=glFsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit - 101 Amazing Facts You Didn't Know"
+  },
+  {
+    "_id": "-RIRbLwgH_0C",
+    "authors": ["George Wheeler"],
+    "average_rating": 0,
+    "categories": ["Fiction"],
+    "published_date": "2001-04-01",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=-RIRbLwgH_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The American Hobbit"
+  },
+  {
+    "_id": "2r6_FeHPPuUC",
+    "authors": ["Total Class Notes"],
+    "average_rating": 0,
+    "categories": [],
+    "published_date": "2012-02-01",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=2r6_FeHPPuUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "OZI4edE6nSMC",
+    "authors": ["BookCaps Study Guides Staff"],
+    "average_rating": 5,
+    "categories": ["Biography & Autobiography"],
+    "published_date": "2011",
+    "ratings_count": 1,
+    "thumbnail": "http://books.google.com/books/content?id=OZI4edE6nSMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit (Study Guide)"
+  },
+  {
+    "_id": "SQz2AAAAQBAJ",
+    "authors": ["James Stuart Bell"],
+    "average_rating": 4,
+    "categories": ["Religion"],
+    "published_date": "2013-09-15",
+    "ratings_count": 8,
+    "thumbnail": "http://books.google.com/books/content?id=SQz2AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Spiritual World of the Hobbit"
+  },
+  {
+    "_id": "TdDhBAAAQBAJ",
+    "authors": ["Jay Richards", "Jonathan Witt"],
+    "average_rating": 3,
+    "categories": ["Literary Criticism"],
+    "published_date": "2014-09-18",
+    "ratings_count": 1,
+    "thumbnail": "http://books.google.com/books/content?id=TdDhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit Party"
+  },
+  {
+    "_id": "8KdEAgAAQBAJ",
+    "authors": ["Adam Roberts"],
+    "average_rating": 0,
+    "categories": ["Literary Criticism"],
+    "published_date": "2013-11",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=8KdEAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Riddles of The Hobbit"
+  },
+  {
+    "_id": "1rogAgAAQBAJ",
+    "authors": ["Houghton Mifflin Harcourt"],
+    "average_rating": 0,
+    "categories": ["Juvenile Nonfiction"],
+    "published_date": "2013-11-19",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=1rogAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit: The Desolation of Smaug Activity Book"
+  },
+  {
+    "_id": "-3HK5oU_OPgC",
+    "authors": ["Matthew Dickerson"],
+    "average_rating": 4,
+    "categories": ["Religion"],
+    "published_date": "2012-09-01",
+    "ratings_count": 2,
+    "thumbnail": "http://books.google.com/books/content?id=-3HK5oU_OPgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "A Hobbit Journey"
+  },
+  {
+    "_id": "3XGlBAAAQBAJ",
+    "authors": ["Greg Slingerland"],
+    "average_rating": 0,
+    "categories": ["Education"],
+    "published_date": "2015-01-15",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=3XGlBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "A Teachers Guide to The Hobbit"
+  },
+  {
+    "_id": "YoFEAMeXdQQC",
+    "authors": ["Devin Brown"],
+    "average_rating": 4.5,
+    "categories": ["Religion"],
+    "published_date": "2012-10-01",
+    "ratings_count": 6,
+    "thumbnail": "http://books.google.com/books/content?id=YoFEAMeXdQQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Christian World of The Hobbit"
+  },
+  {
+    "_id": "7t42EWzym-sC",
+    "authors": ["Gene B Hardy"],
+    "average_rating": 0,
+    "categories": ["Literary Criticism"],
+    "published_date": "2007-08-20",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=7t42EWzym-sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "CliffsNotes on Tolkien's The Lord of the Rings & The Hobbit"
+  },
+  {
+    "_id": "arsgAgAAQBAJ",
+    "authors": ["Gemma Barder"],
+    "average_rating": 0,
+    "categories": ["Juvenile Nonfiction"],
+    "published_date": "2013-11-26",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=arsgAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit: The Desolation of Smaug Sticker Book"
+  },
+  {
+    "_id": "yZSLAAAACAAJ",
+    "authors": ["Chuck Dixon", "John Ronald Reuel Tolkien"],
+    "average_rating": 4.5,
+    "categories": ["Fiction"],
+    "published_date": "2001",
+    "ratings_count": 6,
+    "thumbnail": "",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "XiRea3tWUK0C",
+    "authors": ["John Carratello", "Patty Carratello"],
+    "average_rating": 0,
+    "categories": ["Education"],
+    "published_date": "1992",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=XiRea3tWUK0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "A Guide for Using The Hobbit in the Classroom"
+  },
+  {
+    "_id": "tFWlPwAACAAJ",
+    "authors": ["Charles Dixon", "J.R.R. Tolkien"],
+    "average_rating": 0,
+    "categories": ["Fiction"],
+    "published_date": "2001",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=tFWlPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "T2YYQrkcplAC",
+    "authors": ["Maciej Henneberg", "John Schofield"],
+    "average_rating": 0,
+    "categories": ["Flores Island (Indonesia)"],
+    "published_date": "2008",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=T2YYQrkcplAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit Trap"
+  },
+  {
+    "_id": "U4nM6f26XjgC",
+    "authors": ["John Gisby"],
+    "average_rating": 0,
+    "categories": ["Humor"],
+    "published_date": "2005-01-01",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=U4nM6f26XjgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "New Zealand with a Hobbit Botherer"
+  },
+  {
+    "_id": "h2gpEAXIyaYC",
+    "authors": ["Gregory Bassham", "Eric Bronson"],
+    "average_rating": 4,
+    "categories": ["Philosophy"],
+    "published_date": "2012-09-18",
+    "ratings_count": 1,
+    "thumbnail": "http://books.google.com/books/content?id=h2gpEAXIyaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "The Hobbit and Philosophy"
+  },
+  {
+    "_id": "NzhFw7ZMsMAC",
+    "authors": ["George Ellis Wheeler"],
+    "average_rating": 0,
+    "categories": ["Fiction"],
+    "published_date": "2001-10-30",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=NzhFw7ZMsMAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "title": "Tales from the American Hobbit"
+  },
+  {
+    "_id": "A6kbTwEACAAJ",
+    "authors": ["Harold Bloom"],
+    "average_rating": 0,
+    "categories": ["Juvenile Nonfiction"],
+    "published_date": "2011",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=A6kbTwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "J.R.R. Tolkien's The Hobbit"
+  },
+  {
+    "_id": "rHeGmAEACAAJ",
+    "authors": ["J.R.R. Tolkien"],
+    "average_rating": 4,
+    "categories": ["Juvenile Fiction"],
+    "published_date": "1999-09-01",
+    "ratings_count": 3100,
+    "thumbnail": "http://books.google.com/books/content?id=rHeGmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "Hobbit"
+  },
+  {
+    "_id": "wFMO7R-qvDUC",
+    "authors": ["Ruth Perry", "Allan Jay Friedman", "David Rogers"],
+    "average_rating": 0,
+    "categories": ["Dragons"],
+    "published_date": "1972",
+    "ratings_count": 0,
+    "thumbnail": "http://books.google.com/books/content?id=wFMO7R-qvDUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "The Hobbit"
+  },
+  {
+    "_id": "a5yPPwAACAAJ",
+    "authors": ["J.R.R. Tolkien"],
+    "average_rating": 4.5,
+    "categories": ["Juvenile Fiction"],
+    "published_date": "2001-09-01",
+    "ratings_count": 7,
+    "thumbnail": "http://books.google.com/books/content?id=a5yPPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "title": "Hobbit"
+  }
+]

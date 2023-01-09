@@ -1,0 +1,17 @@
+# Flask framework and rest extension
+flask==1.1.2
+flask-restful==0.3.8
+# Tests and coverage
+pytest==6.0.1
+coverage==5.2.1
+# Data models
+pydantic==1.6.2
+# Database connection
+pymongo==3.11.0
+flask-pymongo==2.3.0
+# Must be installed to use mongodb atlas connection
+dnspython==2.0.0
+# HTTP requests lib
+requests==2.24.0
+# Gunicorn for deployment
+gunicorn==20.0.4
