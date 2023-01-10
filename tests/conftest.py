@@ -1,30 +1,50 @@
-import os
 import json
+import os
+
 import pytest
+from fastapi import FastAPI
+from fastapi.testclient import TestClient
+from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
 
-from flask import Flask
-from flask.testing import FlaskClient
+from books.collections import BooksCollection
+from settings import MONGO_DB_URL
 
-from books import create_app
-from books.db import mongo, books_collection
-from config import TestingConfig
-
+DB_NAME = "test_db"
 TESTS_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)))
 
 
-@pytest.fixture(scope='session')
-def app() -> Flask:
-    """Yield fixture app and close db connection after tests end"""
-    yield create_app(TestingConfig)
-    mongo.cx.close()
+@pytest.fixture(scope="session")
+def mongo_client() -> AsyncIOMotorClient:
+    client = AsyncIOMotorClient(MONGO_DB_URL)
+    yield client
+    client.close()
 
 
-@pytest.fixture(scope='module')
-def client(app: Flask) -> FlaskClient:
-    """Returns app test client and loads test data from tests_books.json"""
-    with open(os.path.join(TESTS_DIR, 'test_books.json'), 'r') as f:
-        data = json.load(f)
-    books_collection.collection.insert_many(data)
-    with app.test_client() as client:
-        yield client
-    books_collection.collection.remove()
+@pytest.fixture(scope="module")
+def mongodb(mongo_client: AsyncIOMotorClient):
+    db: AsyncIOMotorDatabase = mongo_client[DB_NAME]
+    yield db
+    mongo_client.drop_database(DB_NAME)
+
+
+@pytest.fixture(scope="function")
+def mock_data():
+    with open(os.path.join(TESTS_DIR, "test_books.json"), "r") as f:
+        return json.load(f)
+
+
+@pytest.fixture(scope="function")
+@pytest.mark.asyncio
+async def books_collection(
+    mongodb: AsyncIOMotorDatabase, mock_data: list[dict]
+) -> BooksCollection:
+    collection = BooksCollection(mongodb)
+    await collection.collection.insert_many(mock_data)
+    yield collection
+    collection.collection.drop()
+
+
+@pytest.fixture(scope="module")
+def client() -> TestClient:
+    app = FastAPI()
+    yield TestClient(app)

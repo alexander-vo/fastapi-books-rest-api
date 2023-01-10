@@ -1,9 +1,6 @@
-from books import create_app
-from config import get_config
+from fastapi import FastAPI
 
-config = get_config()
-app = create_app(config)
+from books.routers import books_router
 
-if __name__ == '__main__':
-    # If runs on local machine, other are for gunicorn
-    app.run()
+app = FastAPI()
+app.include_router(books_router)
